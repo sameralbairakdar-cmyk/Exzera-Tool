@@ -18,6 +18,12 @@ The main interface groups available functions into dedicated areas:
 
 The exact functions available may depend on the connected device and the user's account.
 
+## Device Activation Mode
+
+Exzera Tool provides activation workflows for compatible phones across its available Samsung, Xiaomi, Android, and MTK service areas. The guided interface displays live progress and operation results so technicians can follow the activation process from one workspace.
+
+Device compatibility can vary by brand, model, region, and software version. Activation functions must be used only on devices owned by the user or serviced with the owner's explicit authorization.
+
 ## Smart Security Scan
 
 The security scanner reviews installed applications and presents results in a searchable list. It can show the application package, installation information, source, risk level, and detection reasons. Users remain in control of any removal action and can review selected items before confirming.

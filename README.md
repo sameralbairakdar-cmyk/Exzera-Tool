@@ -16,6 +16,7 @@ Exzera Tool is a Windows desktop application for device information, service wor
 - Remember previously removed threats to improve future Smart Removal sessions.
 - Clear supported browser cache and stored browsing data during the cleaning workflow.
 - Trim temporary system cache to help remove leftover files and recover storage space.
+- Provide device-activation workflows for compatible phones through the available Samsung, Xiaomi, Android, and MTK service areas.
 - Manage customer service cases and delivery status.
 - Track spare-parts inventory by device model.
 - Start supported device-analysis and service workflows from one interface.

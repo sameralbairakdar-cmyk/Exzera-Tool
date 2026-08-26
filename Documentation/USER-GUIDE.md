@@ -16,6 +16,16 @@
 3. Review the information and status messages in the device console.
 4. Use the refresh control if the device or port is not listed.
 
+## Using Device Activation Mode
+
+1. Connect a compatible phone that you own or are authorized to service.
+2. Select the matching Samsung, Xiaomi, Android, or MTK service area.
+3. Choose the available activation function for that device.
+4. Follow the instructions and live progress shown by Exzera Tool.
+5. Keep the phone connected until a clear completion message appears.
+
+Activation availability depends on the phone model, software version, region, and account permissions.
+
 ## Running a Security Scan
 
 1. Open the Android area and choose **Virus Scan**.
