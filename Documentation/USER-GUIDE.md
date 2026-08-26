@@ -25,6 +25,16 @@
 5. Select only items you recognize and intend to remove.
 6. Read the confirmation prompt carefully before approving an action.
 
+## Cleaning Detected Threats and Cache
+
+1. Start the virus-cleaning function from the appropriate device area.
+2. Review the live console while the tool checks installed applications against its threat records.
+3. Confirm that detected viruses, malware, adware, or unwanted applications were removed or disabled successfully.
+4. Allow the browser and temporary-cache cleanup stages to finish.
+5. Review the final summary before disconnecting the device.
+
+Browser cleanup can remove cache, cookies, sessions, and other locally stored browser information. Back up anything important and obtain the device owner's approval before continuing.
+
 ## Managing Customers
 
 Open **Customers** to search and manage repair records. Select a record before editing its problem description, recording parts use, marking delivery, closing the case, or deleting the record.

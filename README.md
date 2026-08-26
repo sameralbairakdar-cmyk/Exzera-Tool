@@ -11,7 +11,11 @@ Exzera Tool is a Windows desktop application for device information, service wor
 - Read connected-device information from a selected port.
 - Organize service functions by Samsung, Xiaomi, Android, MTK, and Account categories.
 - Review live operation output and progress in the device console.
-- Scan Android devices for suspicious or advertising-related applications.
+- Track installed applications against known threat records and identify suspected viruses, malware, adware, and unwanted applications.
+- Remove or disable detected threats after review and confirmation.
+- Remember previously removed threats to improve future Smart Removal sessions.
+- Clear supported browser cache and stored browsing data during the cleaning workflow.
+- Trim temporary system cache to help remove leftover files and recover storage space.
 - Manage customer service cases and delivery status.
 - Track spare-parts inventory by device model.
 - Start supported device-analysis and service workflows from one interface.
