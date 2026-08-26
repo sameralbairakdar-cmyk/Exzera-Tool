@@ -1,2 +1,37 @@
-# Exzera-Tool
-Exzera-Tool-Documentation
+# Exzera Tool
+
+Exzera Tool is a Windows desktop application for device information, service workflows, security review, and workshop administration. It brings commonly used device and business-management functions together in a clear tabbed interface.
+
+> This repository contains product documentation and screenshots only. It does not contain the application, utilities, binaries, or source code.
+
+![Exzera Tool main interface](screenshots/main-interface.png)
+
+## Highlights
+
+- Read connected-device information from a selected port.
+- Organize service functions by Samsung, Xiaomi, Android, MTK, and Account categories.
+- Review live operation output and progress in the device console.
+- Scan Android devices for suspicious or advertising-related applications.
+- Manage customer service cases and delivery status.
+- Track spare-parts inventory by device model.
+- Start supported device-analysis and service workflows from one interface.
+- Stop an active operation from the main window.
+
+## Documentation
+
+- [Feature Overview](Documentation/FEATURES.md)
+- [User Guide](Documentation/USER-GUIDE.md)
+- [Safety and Responsible Use](Documentation/SAFETY.md)
+
+## Platform
+
+- Microsoft Windows
+- A compatible device and the appropriate device-side settings may be required for individual functions.
+
+## Notice
+
+Exzera Tool is intended for lawful diagnostics, maintenance, and service work on devices that you own or are authorized to service. Availability of individual functions can vary by device model, software version, and account status.
+
+## Author
+
+Powered by Samer Al Birkdar.
